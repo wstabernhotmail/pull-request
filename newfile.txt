@@ -1,0 +1,20 @@
+A pipeline contains one or more stages. Define the first stage of your pipeline
+
+Fill in the Stage name.
+Fill in the Job name.
+Fill in the task type and the command for the task.
+If you use Ant, NAnt or Rake for scripting, Go provides convenience wrappers for these tools. To use any other scripting tool (e.g: Maven, msbuild, etc.), choose the "More..." option to use the command repository or specify the command line syntax for that tool.
+See the Managing pipelines documentation for editing these settings following the creation of your pipeline.A pipeline contains one or more stages. Define the first stage of your pipeline
+
+Fill in the Stage name.
+Fill in the Job name.
+Fill in the task type and the command for the task.
+If you use Ant, NAnt or Rake for scripting, Go provides convenience wrappers for these tools. To use any other scripting tool (e.g: Maven, msbuild, etc.), choose the "More..." option to use the command repository or specify the command line syntax for that tool.
+See the Managing pipelines documentation for editing these settings following the creation of your pipeline.
+A pipeline contains one or more stages. Define the first stage of your pipeline
+
+Fill in the Stage name.
+Fill in the Job name.
+Fill in the task type and the command for the task.
+If you use Ant, NAnt or Rake for scripting, Go provides convenience wrappers for these tools. To use any other scripting tool (e.g: Maven, msbuild, etc.), choose the "More..." option to use the command repository or specify the command line syntax for that tool.
+See the Managing pipelines documentation for editing these settings following the creation of your pipeline.
